@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "d53e8bf84b6cb76c",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f0fcb8c325f666",
+        "type": "leaf",
+        "state": {
+          "type": "video",
+          "state": {
+            "file": "3. Resources/_VIDEOS/Inspirations/Visual Novels/Main Menu/Kara no Shoujo Menu 1.mp4"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c696f10c3dd3a688",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8c5e1037fceb156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f7e37c1c5d19e2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60e535f7800d47ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a70ea7f73d1b54b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ecdc393e6340666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09805df3785d28f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "92d0d14a92a6fc25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Resources/_VIDEOS/Inspirations/Visual Novels/Main Menu/Kara no Shoujo Menu 1.mp4",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "48f0fcb8c325f666",
+  "lastOpenFiles": [
+    "3. Resources/_VIDEOS/Inspirations/Anime/Aku no Hana/Aku no Hana Ending.mp4",
+    "3. Resources/_VIDEOS/Inspirations/Anime/Aku no Hana/Aku no Hana All Opening Songs.mp4",
+    "3. Resources/_IMAGES/TWIJCRP.jpg",
+    "3. Resources/_IMAGES/LIJCG.jpg",
+    "1. Projects/Player Movement.md",
+    "1. Projects/Main Menu.md",
+    "1. Projects/Level System.md",
+    "1. Projects/Dialogue System.md",
+    "1. Projects/Cutscene System.md"
+  ]
+}
