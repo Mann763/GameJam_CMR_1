@@ -1,1 +1,1 @@
-# GameJam_Seamedu_1
+# GameJam_CMR_1
